@@ -1,3 +1,4 @@
+#Python game from Udemy
 import pygame, sys, random, time
 
 pygame.init() # Initialize pygame
